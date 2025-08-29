@@ -173,8 +173,8 @@ Conseguir minha primeira oportunidade como **estagiário em desenvolvimento**, a
 <img 
       align="left" 
       alt="GitHub Stats" 
-      width="300"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Perez&theme=tokyonight&layout=donut-vertical&custom_title=Tecnologias&langs_count=9" 
+      width="400"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Perez&theme=tokyonight&layout=donut&custom_title=Tecnologias&langs_count=6" 
   />
 
 <picture>
