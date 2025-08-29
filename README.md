@@ -177,4 +177,8 @@ Conseguir minha primeira oportunidade como **estagiário em desenvolvimento**, a
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Perez&theme=tokyonight&layout=donut-vertical&custom_title=Tecnologias&langs_count=9" 
   />
 
-![Snake animation](https://github.com/Douglas-Perez/Douglas-Perez/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Douglas-Perez/Douglas-Perez/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Douglas-Perez/Douglas-Perez/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Douglas-Perez/Douglas-Perez/output/github-contribution-grid-snake.svg">
+</picture>
