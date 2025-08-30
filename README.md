@@ -7,7 +7,7 @@
             src="https://custom-icon-badges.demolab.com/badge/Email-E61B23?logo=mail"
         />
     </a> 
-    <a href="www.linkedin.com/in/douglas-perez-dev">
+    <a href="https://www.linkedin.com/in/douglas-perez-dev/">
         <img 
             alt="LinkedIn" 
             title="LinkedIn" 
