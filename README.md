@@ -40,9 +40,6 @@ Conseguir minha primeira oportunidade como **estagiário em desenvolvimento Full
 - Tenho interesse por jogos, ciência e programação criativa.  
 - Acredito que disciplina e curiosidade são as melhores ferramentas para evoluir.  
 
----
-
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -168,15 +165,6 @@ Conseguir minha primeira oportunidade como **estagiário em desenvolvimento Full
 <br/>
 <br/>
 ---
-
-### 📊 Estatísticas
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      width="400"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Perez&theme=tokyonight&layout=donut&custom_title=Tecnologias&langs_count=6" 
-  />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Douglas-Perez/Douglas-Perez/output/github-contribution-grid-snake-dark.svg">
