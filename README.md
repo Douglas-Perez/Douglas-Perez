@@ -23,7 +23,8 @@
     </a>
 </p>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia. Atualmente, estou em transição de carreira e focado em me tornar um **desenvolvedor back-end**.  
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, em transição de carreira, com foco em desenvolvimento **Full Stack**.
+Tenho experiência prática em projetos acadêmicos e pessoais, trabalhando com **Java, C#, Python, JavaScript e bancos de dados relacionais,** aplicando conceitos de **POO, CRUD, autenticação e versionamento com Git.**
 
 ## 🎓 Formação e estudos  
 - 💻 **Programa ONE (Oracle + Alura)** – Aprendendo **Back-End Java**.  
@@ -32,7 +33,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tec
 - 💻 **Desenvolvedor Full Stack Python** (EBAC) - em andamento.  
 
 ## 🚀 Objetivo  
-Conseguir minha primeira oportunidade como **estagiário em desenvolvimento**, aplicar na prática o que tenho aprendido e continuar crescendo como profissional.  
+Conseguir minha primeira oportunidade como **estagiário em desenvolvimento Full Stack**, onde eu possa aplicar meus conhecimentos em projetos reais, aprender com o time e evoluir tecnicamente.  
 
 ## ⚡ Curiosidades sobre mim  
 - Gosto de aprender coisas novas todos os dias.  
