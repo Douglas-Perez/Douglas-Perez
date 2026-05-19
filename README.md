@@ -1,4 +1,4 @@
-# Olá, eu sou o Douglas
+# Olá, eu sou o Douglas 👋
 <p align="left">
     <a href="mailto:douglas.perez.c@hotmail.com">
         <img 
@@ -23,17 +23,20 @@
     </a>
 </p>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, em transição de carreira, com foco em desenvolvimento **Full Stack**.
-Tenho experiência prática em projetos acadêmicos e pessoais, trabalhando com **Java, C#, Python, JavaScript e bancos de dados relacionais,** aplicando conceitos de **POO, CRUD, autenticação e versionamento com Git.**
+Sou **Desenvolvedor Full Stack** em formação e estudante de **Análise e Desenvolvimento de Sistemas**, atualmente atuando como **estagiário de desenvolvimento**.
+No dia a dia trabalho bastante com **PHP**, e tenho experiência prática com **Java, C#, Python, JavaScript e bancos de dados relacionais**, aplicando conceitos de **POO, CRUD, autenticação, APIs e versionamento com Git**.
+
+## 💼 Experiência
+- 👨‍💻 **Estagiário de Desenvolvimento** – atuando principalmente com **PHP** em projetos reais (back-end, APIs e integração com banco de dados).
 
 ## 🎓 Formação e estudos  
-- 💻 **Programa ONE (Oracle + Alura)** – Aprendendo **Back-End Java**.  
-- 🎓 **Faculdade de ADS** (2° Semestre) – em andamento.  
-- 🎓 **Programador de Sistemas – SENAC** (concluído) – onde desenvolvi um projeto completo em **C# com Windows Forms**, aplicando **POO** e **Banco de Dados**.  
-- 💻 **Desenvolvedor Full Stack Python** (EBAC) - em andamento.  
+- ✅ **Programa ONE (Oracle + Alura)** – Formação em **Back-End Java** (concluído).  
+- 🎓 **Faculdade de ADS** – 3º Semestre (em andamento).  
+- 💻 **Desenvolvedor Full Stack Python (EBAC)** – em andamento.  
+- ✅ **Programador de Sistemas – SENAC** – projeto completo em **C# com Windows Forms**, aplicando **POO** e **Banco de Dados** (concluído).  
 
 ## 🚀 Objetivo  
-Conseguir minha primeira oportunidade como **estagiário em desenvolvimento Full Stack**, onde eu possa aplicar meus conhecimentos em projetos reais, aprender com o time e evoluir tecnicamente.  
+Crescer como **Desenvolvedor Full Stack**, aprofundando meus conhecimentos em **PHP e back-end**, contribuindo cada vez mais com projetos reais e evoluindo tecnicamente junto com o time.  
 
 ## ⚡ Curiosidades sobre mim  
 - Gosto de aprender coisas novas todos os dias.  
@@ -42,6 +45,14 @@ Conseguir minha primeira oportunidade como **estagiário em desenvolvimento Full
 
 ### 🤖 Linguagens e Tecnologias
 
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
 <img 
     align="left" 
     alt="Java" 
@@ -164,6 +175,15 @@ Conseguir minha primeira oportunidade como **estagiário em desenvolvimento Full
 />
 <br/>
 <br/>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Douglas-Perez&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" />
+</p>
+
 ---
 
 <picture>
