@@ -181,7 +181,7 @@ Crescer como **Desenvolvedor Full Stack**, aprofundando meus conhecimentos em **
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=Douglas-Perez&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" />
+  <img src="https://streak-stats.demolab.com/?user=Douglas-Perez&theme=dark&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" />
 </p>
 
 ---
