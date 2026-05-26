@@ -23,11 +23,11 @@
     </a>
 </p>
 
-Sou **Desenvolvedor Full Stack** em formação e estudante de **Análise e Desenvolvimento de Sistemas**, atualmente atuando como **estagiário de desenvolvimento**.
+Sou **Desenvolvedor Backend em formação**, com vertente Full Stack e estudante de **Análise e Desenvolvimento de Sistemas**, atualmente atuando como **estagiário de desenvolvimento**.
 No dia a dia trabalho bastante com **PHP**, e tenho experiência prática com **Java, C#, Python, JavaScript e bancos de dados relacionais**, aplicando conceitos de **POO, CRUD, autenticação, APIs e versionamento com Git**.
 
 ## 💼 Experiência
-- 👨‍💻 **Estagiário de Desenvolvimento** – atuando principalmente com **PHP** em projetos reais (back-end, APIs e integração com banco de dados).
+- 👨‍💻 **Estagiário de Desenvolvimento** – atuando com PHP 8 no backend de um sistema de consulta processual, que agrega buscas em diversos tribunais brasileiros (PJe, Projudi, scrapers customizados). Minha contribuição é desenvolver novas integrações que entram em produção, seguindo a arquitetura existente (Template Method, injeção de dependência, cliente HTTP em cURL).
 
 ## 🎓 Formação e estudos  
 - ✅ **Programa ONE (Oracle + Alura)** – Formação em **Back-End Java** (concluído).  
