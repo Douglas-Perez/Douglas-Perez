@@ -30,9 +30,9 @@ No dia a dia trabalho bastante com **PHP**, e tenho experiência prática com **
 - 👨‍💻 **Estagiário de Desenvolvimento** – atuando com PHP 8 no backend de um sistema de consulta processual, que agrega buscas em diversos tribunais brasileiros (PJe, Projudi, scrapers customizados). Minha contribuição é desenvolver novas integrações que entram em produção, seguindo a arquitetura existente (Template Method, injeção de dependência, cliente HTTP em cURL).
 
 ## 🎓 Formação e estudos  
-- ✅ **Programa ONE (Oracle + Alura)** – Formação em **Back-End Java** (concluído).  
 - 🎓 **Faculdade de ADS** – 3º Semestre (em andamento).  
 - 💻 **Desenvolvedor Full Stack Python (EBAC)** – em andamento.  
+- ✅ **Programa ONE (Oracle + Alura)** – Formação em **Back-End Java** (concluído).  
 - ✅ **Programador de Sistemas – SENAC** – projeto completo em **C# com Windows Forms**, aplicando **POO** e **Banco de Dados** (concluído).  
 
 ## 🚀 Objetivo  
