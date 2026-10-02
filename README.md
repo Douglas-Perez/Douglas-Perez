@@ -1,193 +1,57 @@
 # Olá, eu sou o Douglas 👋
 <p align="left">
     <a href="mailto:douglas.perez.c@hotmail.com">
-        <img 
-            alt="Email" 
-            title="Email" 
-            src="https://custom-icon-badges.demolab.com/badge/Email-E61B23?logo=mail"
-        />
-    </a> 
+        <img alt="Email" title="Email" src="https://custom-icon-badges.demolab.com/badge/Email-E61B23?logo=mail" />
+    </a>
     <a href="https://www.linkedin.com/in/douglas-perez-dev/">
-        <img 
-            alt="LinkedIn" 
-            title="LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedinbranco"
-        />
+        <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedinbranco" />
     </a>
     <a href="https://cursos.alura.com.br/user/Douglas-perez-c">
-        <img 
-            alt="Alura" 
-            title="Alura" 
-            src="https://custom-icon-badges.demolab.com/badge/Alura-0077B5?logo=Alura"
-        />
+        <img alt="Alura" title="Alura" src="https://custom-icon-badges.demolab.com/badge/Alura-0077B5?logo=Alura" />
     </a>
 </p>
 
-Sou **Desenvolvedor Backend em formação**, com vertente Full Stack e estudante de **Análise e Desenvolvimento de Sistemas**, atualmente atuando como **estagiário de desenvolvimento**.
-No dia a dia trabalho bastante com **PHP**, e tenho experiência prática com **Java, C#, Python, JavaScript e bancos de dados relacionais**, aplicando conceitos de **POO, CRUD, autenticação, APIs e versionamento com Git**.
+**Desenvolvedor PHP e JavaScript**, graduando em Análise e Desenvolvimento de Sistemas (conclusão em jun/2027), com formação back-end Java pelo programa ONE (Oracle + Alura). Desde março de 2026 sou estagiário de desenvolvimento em um sistema de consultas processuais que integra tribunais e bases públicas brasileiras, e desde junho o único desenvolvedor ativo dele.
 
-## 💼 Experiência
-- 👨‍💻 **Estagiário de Desenvolvimento** – atuando com PHP 8 no backend de um sistema de consulta processual, que agrega buscas em diversos tribunais brasileiros (PJe, Projudi, scrapers customizados). Minha contribuição é desenvolver novas integrações que entram em produção, seguindo a arquitetura existente (Template Method, injeção de dependência, cliente HTTP em cURL).
+> O trabalho do dia a dia fica em repositório privado da empresa, por isso o gráfico de contribuições daqui não o reflete. Os projetos abaixo são o que posso mostrar.
 
-## 🎓 Formação e estudos  
-- 🎓 **Faculdade de ADS** – 3º Semestre (em andamento).  
-- 💻 **Desenvolvedor Full Stack Python (EBAC)** – em andamento.  
-- ✅ **Programa ONE (Oracle + Alura)** – Formação em **Back-End Java** (concluído).  
-- ✅ **Programador de Sistemas – SENAC** – projeto completo em **C# com Windows Forms**, aplicando **POO** e **Banco de Dados** (concluído).  
+## 💼 O que faço hoje
+- Herdei um codebase legado em PHP 8 sem testes nem documentação e implantei o PHPUnit do zero: mais de 580 testes, com red-green em toda correção de comportamento.
+- Encontrei e corrigi, por iniciativa própria, vulnerabilidades reais: XSS armazenado, acesso indevido entre contas e bypass de autenticação.
+- Refiz integrações com portais de tribunais: uma sobre API REST paginada (70 testes) e um container Docker com navegador real, em produção.
+- Reduzo dívida técnica em ondas pequenas: helpers reutilizáveis, commits atômicos (conventional commits) e PHPDoc em toda função que toco.
 
-## 🚀 Objetivo  
-Crescer como **Desenvolvedor Full Stack**, aprofundando meus conhecimentos em **PHP e back-end**, contribuindo cada vez mais com projetos reais e evoluindo tecnicamente junto com o time.  
+## 🚀 Projetos
+- [LiterAlura](https://github.com/Douglas-Perez/LiterAlura-Challenge-ONE) · Java 17, Spring Boot, Spring Data JPA, PostgreSQL · catálogo de livros sobre a API Gutendex, com persistência e consultas por idioma e autor.
+- [Conversor de moedas](https://github.com/Douglas-Perez/currency-converter-ONE) · Java, API ExchangeRate · cotação em tempo real, tratamento de erros de rede e histórico de conversões.
+- [Dashboard de salários na área de dados](https://github.com/Douglas-Perez/Imersao-de-Dados-Alura) · Python, Pandas, Plotly, Streamlit · dashboard interativo com filtros por cargo, senioridade e país.
 
-## ⚡ Curiosidades sobre mim  
-- Gosto de aprender coisas novas todos os dias.  
-- Tenho interesse por jogos, ciência e programação criativa.  
-- Acredito que disciplina e curiosidade são as melhores ferramentas para evoluir.  
+## 🎓 Formação
+- Análise e Desenvolvimento de Sistemas · Wyden · conclusão prevista em jun/2027
+- Bacharelado em Química · FAM · 2022
+- Formação back-end Java · ONE (Oracle + Alura) · 2025
+- Programador de Sistemas · Senac · 2025
+- Desenvolvedor Full Stack Python · EBAC · em andamento
 
-### 🤖 Linguagens e Tecnologias
+## 🎯 Objetivo
+Crescer como desenvolvedor back-end, em PHP e Java, dentro de um time que pratica code review.
 
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Spring"
-    title="Spring" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSharp" 
-    title="CSharp"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bash" 
-    title="Bash"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Linux" 
-    title="Linux"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
+## ⚡ Fora do código
+Jogos, ciência e programação criativa. Vim da Química, e é de lá que trago a mania de ler processo complexo até o fim.
+
+## 🤖 Tecnologias
+<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="Spring" title="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="jQuery" title="jQuery" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
+<img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="Linux" title="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img align="left" alt="C#" title="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <br/>
 <br/>
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=Douglas-Perez&theme=dark&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" />
-</p>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Douglas-Perez/Douglas-Perez/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Douglas-Perez/Douglas-Perez/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Douglas-Perez/Douglas-Perez/output/github-contribution-grid-snake.svg">
-</picture>
